@@ -1,0 +1,13 @@
+#summary Various research papers and documents related to fingerprint recognition system.
+
+= Research Papers =
+
+ * [http://biolab.csr.unibo.it/research.asp?organize=Activities&select=&selObj=8&pathSubj=111||8&Req=& Fingerprint Matching]
+ * [http://biolab.csr.unibo.it/research.asp?organize=Activities&select=&selObj=8&pathSubj=111||8&Req=& Fingerprint Extraction]
+
+= Details =
+
+Add your content here.  Format your content with:
+  * Text in *bold* or _italic_
+  * Headings, paragraphs, and lists
+  * Automatic links to other wiki pages
