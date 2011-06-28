@@ -1,0 +1,25 @@
+#summary List of other related projects.
+
+= Production quality algorithms =
+
+ * [http://sourceforge.net/projects/sourceafis SourceAFIS] - implemented in C# and most active project under development. 
+ * [http://sourceforge.net/projects/fingerprintreco/ Fingerprint recognition SDK] - high accuracy local minutia matcher utilizing also some non-minutia information
+ * [http://fingerprint.nist.gov/NBIS/index.html Bozorth3] - accurate local minutia matcher, quite popular, integrated in fprint
+ * [http://fvs.sourceforge.net/ FVS] - nice extractor, star topology local matcher, simple but possibly accurate and fast
+
+
+= Weak algorithms =
+
+ * [http://sourceforge.net/projects/efinger/ eFinger] - has extractor and matcher, but lacks rotation/translation invariance
+ * [http://sourceforge.net/projects/fingerlab/ FingerLab] - Fingerprint Laboratory - appears to have some prototype matcher
+ * [http://sourceforge.net/projects/fingerprint06/ fingerPrint Recognition] - appears to have some very basic prototype matcher, extractor is nowhere to be seen
+ * [http://sourceforge.net/projects/fpoc/ Fingerprint-POC] - seems to use some weak image comparison matcher, no docs, no accuracy stats
+ * [http://sourceforge.net/projects/fingerproject/ fingerProject] - mostly image processing, some weak image-level correlation matcher
+ * [http://sourceforge.net/projects/biometricsdk/ Biometric SDK] - weak prototype matcher, poor patchy implementation
+
+= Empty and severely broken projects =
+
+ * [http://sourceforge.net/projects/openafis/ OpenAFIS] - no sources, no files for download, nothing
+ * [http://sourceforge.net/projects/qfingifier/ qfingifier] - no sources, no files for download, nothing
+ * [http://sourceforge.net/projects/printmatch/ Fingerprint Matcher] - no sources, no files for download, nothing
+ * [http://sourceforge.net/projects/mlinzi/ Mlinzi] - no sources, no files, not even sure whether it is supposed to have its own matcher
