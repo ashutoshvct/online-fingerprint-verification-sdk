@@ -1,4 +1,5 @@
 #summary List of other related projects.
+#labels Featured
 
 = Production quality algorithms =
 
