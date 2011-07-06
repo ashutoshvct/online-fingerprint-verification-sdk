@@ -5,17 +5,17 @@ The papers are listed according to the relevance(top to bottom)
 
 = Research Papers =
 
- # [http://www.nist.gov/customcf/get_pdf.cfm?pub_id=51097 User's Guide to NIST Biometric Image Software (NBIS)] - contains algorithm and image processing guidelines. especial ref to MINDTCT
+ * [http://www.nist.gov/customcf/get_pdf.cfm?pub_id=51097 User's Guide to NIST Biometric Image Software (NBIS)] - contains algorithm and image processing guidelines. especial ref to MINDTCT
 
 == Classification ==
- # [http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.9.5964&rep=rep1&type=pdf A Fingerprint Classification Technique Using Directional Images] by _Meltem Ballan and F. Ayhan Sakarya_
+ * [http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.9.5964&rep=rep1&type=pdf A Fingerprint Classification Technique Using Directional Images] by _Meltem Ballan and F. Ayhan Sakarya_
 
 == Extraction ==
  * [http://biolab.csr.unibo.it/research.asp?organize=Activities&select=&selObj=8&pathSubj=111||8&Req=& Fingerprint Extraction] 
 
 == Matching ==
- # [http://biolab.csr.unibo.it/research.asp?organize=Activities&select=&selObj=8&pathSubj=111||8&Req=& Fingerprint Matching]
+ * [http://biolab.csr.unibo.it/research.asp?organize=Activities&select=&selObj=8&pathSubj=111||8&Req=& Fingerprint Matching]
 
- # [http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.116.2159&rep=rep1&type=pdf Fingerprint Identification and Verification System using Minutiae Matching] by _F.A. Afsar, M. Arif and M. Hussain _
+ * [http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.116.2159&rep=rep1&type=pdf Fingerprint Identification and Verification System using Minutiae Matching] by _F.A. Afsar, M. Arif and M. Hussain _
 
 Todo: clean up and add most recent papers.
