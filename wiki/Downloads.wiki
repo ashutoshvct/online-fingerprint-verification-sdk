@@ -1,9 +1,13 @@
 #summary Download and release available.
 #labels Deprecated
 
-= Currently these is no download available =
+= Currently there is no download available =
 
 The download on this page is currently not available because the code is still in its development phase. 
+
+However, you can download the finished matlab code for minutae extraction here. More downloads will be avaible soon.
+
+* Matlab Code (Minutae Extraction) [http://code.google.com/p/online-fingerprint-verification-sdk/downloads/detail?name=src-matlab-minutae-extraction-OnlineAFIS-1.0.zip&can=2&q=&#makechanges Download]
 
 You may like to '[http://code.google.com/p/online-fingerprint-verification-sdk/source/checkout checkout]' the code to get the latest code using svn with 
 
