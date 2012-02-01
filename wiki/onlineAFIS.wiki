@@ -6,8 +6,8 @@ _Last Updated on Jan 31, 2012_
 
 _By Saurabh Kumar, [http://saurabhworld.in/go/twitter @saurabh_world]_ 
 
-=Introduction=
 
+=Introduction=
  
 OnlineAFIS™ is a web based fingerprint biometrics project.
 
@@ -18,6 +18,9 @@ Fingerprint features are extracted as [http://en.wikipedia.org/wiki/Minutiae Min
 Standard feature extraction time is 130ms per fingerprint image. Multiple Fingerprints of different fingers can be used for verification (1:1) and identification (1: N) of a person. Matching is a time consuming process for big databases. It must be optimized at database level and algorithm level. Without the database level optimization this software matches around 1000 fingerprint per sec.
 
 The [http://saurabhworld.in/go/5 demonstration application], coded in ASP.net using C# is a ready version. this application is an Open Source Cloud based Web Application which can be integrated with any existing Web Based Open Source solutions. Matlab version of onlineAFIS is also available. OnlineAFIS is an open-source project with some rights reserved with the owner. 
+
+<wiki:toc max_depth="2" />
+
 
 =Specifications and requirements=
 
