@@ -1,7 +1,12 @@
 #summary An introduction to onlineAFIS
-#labels Deprecated
 
-_draft Version_
-_Last Updated on Jan, 3rd 2012_
-_By Saurabh Kumar, [http://twitter.com/saurbh_world @saurabh_world]_
+_draft Version_ 
 
+_Last Updated on Jan, 3rd 2012_ 
+
+_By Saurabh Kumar, [http://saurabhworld.in/go/twitter @saurabh_world]_ 
+
+
+=Fingerprint Scanner Requirements=
+
+The application works with a Fingerprint Scanner which is *TWAIN* compatible and provides drivers for the same. TWAIN[1] is an open standard for Image Acquisition devices. Various vendors provide TWAIN interface to their scanning devices. List of supported devices can be found [here Compatible_Scanners]
