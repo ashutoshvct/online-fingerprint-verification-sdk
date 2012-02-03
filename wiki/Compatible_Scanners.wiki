@@ -2,5 +2,9 @@
 
 [http://saurabhworld.in/go/afis OnlineAFIS] works with a Fingerprint Scanner which is *TWAIN* compatible and provides drivers for the same. [http://twain.org TWAIN] is an open standard for Image Acquisition devices. Various vendors provide TWAIN interface to their scanning devices. List of supported devices are:
 
- * [http://360biometrics.com/fingerprint-scanners/crossmatch/Verifier_300_LC_Fingerprint_Reader_Biometric_Reader_Fingerprint_Scanner.php Crossmatch Verifier 300 LC 2.0 Fingerprint Reader]
- * [http://www.neurotechnology.com/fingerprint-scanner-biometrika-hiscan.html Biometrika HiScan]
+ * [http://www.biometrika.it/eng/fx2000.html Fx2000]
+ * [http://www.biometrika.it/eng/fx3000.html Fx3000 - Fingerprint scanner Match on Board]
+ * [http://360biometrics.com/fingerprint-scanners/crossmatch/Verifier_300_LC_Fingerprint_Reader_Biometric_Reader_Fingerprint_Scanner.php Crossmatch Verifier 300 LC 2.0 Fingerprint Reader] - Pricing $460
+ * [http://www.neurotechnology.com/fingerprint-scanner-biometrika-hiscan.html Biometrika HiScan] - Price around $220
+
+_Note: Please check with the supplier websites of the vendor for more details and pricing_
